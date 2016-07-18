@@ -1,0 +1,33 @@
+{
+  "name": "mongo-shopping-list",
+  "version": "1.0.0",
+  "description": "Shopping list app with persistent MongoDB data storage",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickford/mongo-shopping-list.git"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs"
+  ],
+  "author": "Patrick Ford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickford/mongo-shopping-list/issues"
+  },
+  "homepage": "https://github.com/patrickford/mongo-shopping-list#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "mocha": "^2.5.3"
+  }
+}
