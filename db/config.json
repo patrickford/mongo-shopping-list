@@ -1,6 +1,6 @@
 {
     "production": {
-        "url": "mongodb://patrickford:Bluesman1@ds053728.mlab.com:53728/omniatest"
+        "url": "mongodb://patrickford:Bluesman1@ds153179.mlab.com:53179/heroku_kn9zp2nw"
     },
     "test": {
         "url": "mongodb://localhost/shopping-list-test"
